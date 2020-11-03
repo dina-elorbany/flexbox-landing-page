@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Second task",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Task"
+	}
+}
